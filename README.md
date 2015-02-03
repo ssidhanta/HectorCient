@@ -1,4 +1,4 @@
-# HectorCient
+# OptConCient
 
 This is a java client based on the Hector API that:
   1) Predicts the optimum consistency level for a test data given a subSLA row (with threshold values for the parameters latency, 
